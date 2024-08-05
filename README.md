@@ -6,7 +6,7 @@ Esta aplicación proporciona diversas funcionalidades para la manipulación y vi
    
 Permite la comparación de dos conjuntos de datos. **Esta funcionalidad aún no está operativa y está pendiente de finalización**.
 
-3. Pestaña Transformación
+2. Pestaña Transformación
    
 Se han creado tres supuestos orígenes de datos meteorológicos. Esta funcionalidad permite la modificación y transformación de cada uno de ellos, generando un archivo común para todos.
 Se han cargado tres ejemplos de archivos de datos:
