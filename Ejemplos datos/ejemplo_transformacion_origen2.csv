@@ -1,0 +1,7 @@
+fecha_hora,temp_c,sens_termica_c,precip_tipo,precip_mm,humedad,punto_rocio_c,visibilidad_km,rafaga_viento_kmh,direccion_viento,indice_uv,condiciones,temperatura_max_c,temperatura_min_c
+2024-08-01 08:00,20.5,19.0,Ninguno,0.0,80,17.0,10,5.0,NE,1,Despejado,28.7,20.5
+2024-08-01 14:00,28.7,30.0,Lluvia,0.0,60,19.0,10,15.0,N,7,Parcialmente Nublado,28.7,20.5
+2024-08-01 20:00,22.3,21.5,Ninguno,0.0,75,18.0,9,10.0,SW,0,Nublado,28.7,20.5
+2024-08-02 08:00,19.8,18.2,Lluvia,2.3,85,16.0,8,20.0,SE,1,Lluvia Ligera,25.1,19.8
+2024-08-02 14:00,25.1,26.5,Tormenta,10.0,70,18.5,5,30.0,S,6,Tormenta,25.1,19.8
+2024-08-02 20:00,21.0,20.0,Niebla,0.0,95,19.0,2,8.0,W,0,Niebla,25.1,19.8

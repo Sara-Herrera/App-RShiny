@@ -1,0 +1,7 @@
+fecha,temp_max_f,temp_min_f,humedad_prom,presion_min_hpa,presion_max_hpa,viento_vel_media_kmh,viento_direccion,duracion_sol_horas,indice_calor_c,condiciones
+2024-08-01,84.2,65.3,65,1012.4,1018.5,12.0,NE,8.0,28.5,Despejado
+2024-08-02,80.1,62.6,70,1010.1,1015.7,10.5,N,6.5,26.0,Parcialmente Nublado
+2024-08-03,74.1,61.2,75,1008.0,1013.2,8.0,SW,2.0,23.0,Lluvia Moderada
+2024-08-04,82.6,66.9,60,1011.5,1019.0,11.0,E,9.0,28.1,Despejado
+2024-08-05,90.5,70.3,55,1013.8,1021.4,14.0,SE,10.0,33.0,Caluroso
+2024-08-06,82.0,68.0,80,1009.5,1016.0,9.0,W,3.5,27.5,Nublado
